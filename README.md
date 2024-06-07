@@ -1,7 +1,4 @@
-Sure, here is a comprehensive `README.md` for your shell script:
-
-```markdown
-# Resolution Switcher Script
+# Set Resolution (xrandr cli wrapper)
 
 ## Overview
 
